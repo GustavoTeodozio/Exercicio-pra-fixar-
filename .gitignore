@@ -20,3 +20,6 @@ Console.WriteLine("Registro: {0} anos de idade, código {1} e gênero: {2}", ida
 Console.WriteLine();
 Console.WriteLine("Medida com oito casas decimais: {0}" ,medida);
 Console.WriteLine("Arredondando {0:f}" ,medida);
+
+
+Visual studio code - C#
